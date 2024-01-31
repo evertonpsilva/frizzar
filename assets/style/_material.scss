@@ -1,0 +1,29 @@
+@import '@angular/material/theming';
+@import './colors';
+@import './palette';
+
+$my-primary: mat-palette($primary-palette);
+$my-accent: mat-palette($accent-palette);
+$my-warn: mat-palette($warn-palette);
+
+$my-theme: mat-light-theme(
+  (
+    color: (
+      primary: $my-primary,
+      accent: $my-accent,
+      warn: $my-warn,
+    ),
+  )
+);
+
+@include angular-material-theme($my-theme);
+
+* {
+  box-sizing: border-box;
+
+  &:not(mat-icon):not(.material-symbols-rounded):not([class*='fa-']):not(
+      [class*='bi-']
+    ) {
+    font-family: 'DM Sans', sans-serif !important;
+  }
+}
