@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1706729956123,
+  "timestamp": 1706730081782,
   "index": "/frizzar/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,7 @@
         "/frizzar/common.5e1bcda10ceb6739.js",
         "/frizzar/favicon.ico",
         "/frizzar/index.html",
-        "/frizzar/main.f969e9cab2477175.js",
+        "/frizzar/main.81a78edc653df91f.js",
         "/frizzar/manifest.webmanifest",
         "/frizzar/polyfills.42bbea1766672e79.js",
         "/frizzar/runtime.ce74cd9419f7a08a.js",
@@ -55,8 +55,8 @@
     "/frizzar/common.5e1bcda10ceb6739.js": "331645eec1853a61265901dd4bea190e2fd3cc10",
     "/frizzar/fav.png": "038c6538df1289707c4e15e30a8a902dbbf118ac",
     "/frizzar/favicon.ico": "25558e09c2b3dd92d974db0e10b4f98153cd438f",
-    "/frizzar/index.html": "28d188ed8b40ff3b32f4acca953349bd4c417adf",
-    "/frizzar/main.f969e9cab2477175.js": "d99c5de7e361ac287f009978d1f9443d5638a061",
+    "/frizzar/index.html": "4f954399546a5851a4cccb0ce43bba111fa844cc",
+    "/frizzar/main.81a78edc653df91f.js": "a6e20d3b23a58ee0c010d5b4f1e3f97057aecab7",
     "/frizzar/manifest.webmanifest": "8d234d316932d933fc99b2fbe910361860b757da",
     "/frizzar/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/frizzar/polyfills.42bbea1766672e79.js": "195114c019f5a6966685b62f12f31c9fb21e6d9d",
