@@ -27,3 +27,12 @@ $my-theme: mat-light-theme(
     font-family: 'DM Sans', sans-serif !important;
   }
 }
+
+button {
+  &.mdc-button {
+    padding-right: 28px;
+    padding-left: 28px;
+    height: 48px !important;
+    min-width: 16ch;
+  }
+}
