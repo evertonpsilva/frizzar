@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1708086870735,
+  "timestamp": 1708101511218,
   "index": "/frizzar/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/frizzar/156.382a8db10da406f9.js",
-        "/frizzar/302.c8370e6f94ec5bb5.js",
+        "/frizzar/302.226b528df32c847a.js",
         "/frizzar/462.edaae49feb8f0901.js",
         "/frizzar/820.f428564e779998fb.js",
         "/frizzar/915.fa567baaa38c9881.js",
@@ -22,7 +22,7 @@
         "/frizzar/main.d904b5456dfb1351.js",
         "/frizzar/manifest.webmanifest",
         "/frizzar/polyfills.42bbea1766672e79.js",
-        "/frizzar/runtime.1ba100c4f8092bd0.js",
+        "/frizzar/runtime.4e25a1c6846fccce.js",
         "/frizzar/styles.d2f5f291712d7403.css"
       ],
       "patterns": []
@@ -46,7 +46,7 @@
   "dataGroups": [],
   "hashTable": {
     "/frizzar/156.382a8db10da406f9.js": "0e6125330424a6341c31b4533e4f5ae56d88cdb6",
-    "/frizzar/302.c8370e6f94ec5bb5.js": "82eb1397c5bc5ccf4852361c23f529ea88881705",
+    "/frizzar/302.226b528df32c847a.js": "7221334cff60bbb4700d57f301c4bb13b4958e6c",
     "/frizzar/462.edaae49feb8f0901.js": "ae8f98d1b6b020d3f69e5e65364974a3431e557b",
     "/frizzar/820.f428564e779998fb.js": "2a6977f1c4b3fd21d741a5a28995cea0dc2f9b99",
     "/frizzar/915.fa567baaa38c9881.js": "f777531ef40e5c5b266a4fce89ec6dba3a4fd93e",
@@ -55,12 +55,12 @@
     "/frizzar/common.5e1bcda10ceb6739.js": "331645eec1853a61265901dd4bea190e2fd3cc10",
     "/frizzar/fav.png": "038c6538df1289707c4e15e30a8a902dbbf118ac",
     "/frizzar/favicon.ico": "25558e09c2b3dd92d974db0e10b4f98153cd438f",
-    "/frizzar/index.html": "68f8108b5ca0eafc80ae1631c6ac182d8e5a08c2",
+    "/frizzar/index.html": "62c65d183d30358752ecfe3efc3e1270d0a6bce6",
     "/frizzar/main.d904b5456dfb1351.js": "5ccd79ab712f0bfb6a2bd860d1ae0a94d57cbe8f",
     "/frizzar/manifest.webmanifest": "8d234d316932d933fc99b2fbe910361860b757da",
     "/frizzar/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "/frizzar/polyfills.42bbea1766672e79.js": "195114c019f5a6966685b62f12f31c9fb21e6d9d",
-    "/frizzar/runtime.1ba100c4f8092bd0.js": "b1561c4db6464b5adf219410027cc645ca250a75",
+    "/frizzar/runtime.4e25a1c6846fccce.js": "aeede95e0da6fd7527b3043e565ffb42708a07c7",
     "/frizzar/styles.d2f5f291712d7403.css": "8728e40ccc1a24fce3aca85e37a6285ea25c0f6c"
   },
   "navigationUrls": [
